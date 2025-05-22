@@ -25,5 +25,5 @@ O foco deste projeto foi:
 
 ## 📸 Preview
 
-![Página Inicial](src/img/Pag-ToDoList.png)
+![Página Inicial](https://raw.githubusercontent.com/ryanfelipedev/To-Do-List/main/src/img/Pag-ToDoList.png)
 

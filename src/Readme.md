@@ -25,5 +25,5 @@ O foco deste projeto foi:
 
 ## 📸 Preview
 
-![Texto alternativo](src/img/Pag-To-do-list.png)
+![Página Inicial](src/img/Pag-ToDoList.png)
 
